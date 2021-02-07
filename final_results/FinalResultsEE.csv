@@ -1,4 +1,4 @@
-;Method;Time_Window;Driver;Impostors;Method_Parameters;PORC_FAR;Min_Time_Detection(s);Average_Time_Detection(s);Max_Time_Detection(s);Standard_deviation(s);%_FRR;Min_Time_Detection(s);Average_Time_Detection(s);Max_Time_Detection(s);Standard_deviation(s);Number_clusters
+;Method;Time_Window;Driver;Impostors;Method_Parameters;PORC_FAR;Min_Time_Detection_s;Average_Time_Detection_s;Max_Time_Detection_s;Standard_deviation_s;PORC_FRR;Min_Time_Detection_s;Average_Time_Detection_s;Max_Time_Detection_s;Standard_deviation_s;Number_clusters
 0;EE;3;A;['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];{'contamination: 0'};99.75;3;1060.914634;7444;1501.403181;0;1449;1449;1449;;1
 0;EE;3;A;['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];{'contamination: 0'};99.59;3;530.6036585;4419;941.1496013;0.35;45;242.3333333;738;277.9414807;3
 0;EE;3;A;['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];{'contamination: 0'};99.15;3;321.6851852;2894;668.3812667;0.14;45;483.6666667;1301;708.4668894;5
