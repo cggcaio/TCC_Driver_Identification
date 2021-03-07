@@ -1,4 +1,4 @@
-;Method;Time_Window;Driver;Impostors;Method_Parameters;PORC_FAR;Min_Time_Detection_s;Average_Time_Detection_s;Max_Time_Detection_s;Standard_deviation_s;PORC_FRR;Min_Time_Detection_s;Average_Time_Detection_s;Max_Time_Detection_s;Standard_deviation_s;Number_clusters
+;Method;Time_Window;Driver;Impostors;Method_Parameters;PORC_FAR;Min_Time_Detection_s_FAR;Average_Time_Detection_s_FAR;Max_Time_Detection_s_FAR;Standard_deviation_s_FAR;PORC_FRR;Min_Time_Detection_s_FRR;Average_Time_Detection_s_FRR;Max_Time_Detection_s_FRR;Standard_deviation_s_FRR;Number_clusters
 0;OCSVM;3;A;['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];{'kernel': 'rbf', 'nu': 0.1};19.3;3;10.94305482;467;24.97838157;10.23;3;11.69402985;61;8.995594253;1
 0;OCSVM;3;A;['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];{'kernel': 'rbf', 'nu': 0.01};37.18;3;14.94162335;2319;80.43104743;1.8;8;54.62962963;209;44.8151315;1
 0;OCSVM;3;A;['B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];{'kernel': 'rbf', 'nu': 0.001};51.46;3;18.31427531;2833;101.9661321;0.48;53;182;573;168.4017306;1
